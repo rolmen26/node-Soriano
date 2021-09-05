@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+
   "scripts": {
     "build": "babel src --out-dir build",
     "dev": "nodemon src/index.js --exec babel-node",
@@ -13,7 +14,7 @@
     "url": "git+https://github.com/rolmen26/node-soriano.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rommel Soriano",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rolmen26/node-soriano/issues"
